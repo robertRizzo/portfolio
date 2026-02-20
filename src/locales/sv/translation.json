@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Hem",
+    "projects": "Projekt",
+    "about": "Om mig",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "name": "Robert Rizzo",
+    "tagline": "Blivande Javautvecklare | IT-Högskolan",
+    "subtitle": "Passionerad om mjukvaruutveckling och att bygga saker som gör skillnad.",
+    "emojis": "☕ 💻 🐟 🚀 🥋",
+    "downloadCv": "Ladda ner CV"
+  },
+  "about": {
+    "title": "Om mig",
+    "bio": "Hej! Jag heter Robert Rizzo och studerar just nu till Javautvecklare på IT-Högskolan. Jag brinner för mjukvaruutveckling och älskar att lösa problem med kod. Vid sidan av studierna är jag engagerad som ungdomsledare och styrelseledamot i en fiskeklubb, där jag bland annat byggt deras webbplats.",
+    "educationTitle": "Utbildning",
+    "education": [
+      "Javautvecklare – IT-Högskolan (pågående)",
+      "TBD – Tidigare utbildning"
+    ],
+    "coursesTitle": "Kurser",
+    "courses": [
+      "Java & Objektorienterad Programmering",
+      "Spring Boot & Backend-utveckling",
+      "Databaser & SQL",
+      "Frontend-utveckling (HTML, CSS, JavaScript, React)",
+      "REST API:er & Webbtjänster",
+      "Agil utveckling & Scrum"
+    ],
+    "experienceTitle": "Tidigare erfarenhet",
+    "experience": [
+      "Ungdomsledare – Fiskeklubb (pågående)",
+      "Styrelseledamot – Fiskeklubb (pågående)",
+      "TBD – Ytterligare erfarenhet"
+    ],
+    "hobbiesTitle": "Intressen & Hobbyer",
+    "hobbies": [
+      "Fiske",
+      "Kampsport",
+      "Programmering & open source",
+      "Friluftsliv"
+    ],
+    "lookingForTitle": "Vad jag söker",
+    "lookingFor": "Jag söker möjligheter som Javautvecklare eller Mjukvaruutvecklare. Öppen för praktik, juniorroller och samarbeten – tveka inte att höra av dig!"
+  },
+  "projects": {
+    "title": "Projekt",
+    "items": [
+      {
+        "emoji": "🐟",
+        "title": "Fiskeklubbens Webbplats",
+        "description": "Byggde en komplett webbplats åt fiskeklubben där jag är volontär, styrelseledamot och ungdomsledare. Sidan presenterar klubbens verksamhet, evenemang och information för medlemmar.",
+        "technologies": ["TBD"],
+        "type": "Volontär",
+        "link": ""
+      },
+      {
+        "emoji": "🥋",
+        "title": "Järnvilja",
+        "description": "Fullstack-skolprojekt – en webbapplikation med kampsportstema som demonstrerar mina fullstack-kunskaper. Inkluderar både frontend och backend med databashantering.",
+        "technologies": ["TBD"],
+        "type": "Skolprojekt",
+        "link": "",
+        "featured": true
+      },
+      {
+        "emoji": "🌤️",
+        "title": "Väderappen",
+        "description": "Skolprojekt som konsumerar ett REST API för att visa väderdata och prognoser. Visar förståelse för API-integration och asynkron datahantering.",
+        "technologies": ["JavaScript", "REST API", "HTML", "CSS"],
+        "type": "Skolprojekt",
+        "link": ""
+      },
+      {
+        "emoji": "🐍",
+        "title": "Python-projekt",
+        "description": "Hobbyprojekt byggt med Python. Detaljer och beskrivning kommer snart.",
+        "technologies": ["Python", "TBD"],
+        "type": "Hobby",
+        "link": ""
+      },
+      {
+        "emoji": "🤖",
+        "title": "AI Chatbot",
+        "description": "Hobbyprojekt – en AI-driven chatbot. Utforskar hur maskininlärning och språkmodeller kan användas för att skapa interaktiva konversationsupplevelser.",
+        "technologies": ["Python", "TBD"],
+        "type": "Hobby",
+        "link": ""
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "description": "Tveka inte att höra av dig! Jag är alltid öppen för nya möjligheter och samarbeten.",
+    "email": "TBD@example.com",
+    "phone": "+46 TBD",
+    "linkedin": "linkedin.com/in/TBD",
+    "github": "github.com/TBD",
+    "emailLabel": "E-post",
+    "phoneLabel": "Telefon",
+    "linkedinLabel": "LinkedIn",
+    "githubLabel": "GitHub"
+  },
+  "footer": {
+    "tagline": "Byggd med React & Tailwind CSS",
+    "rights": "Alla rättigheter förbehållna."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "name": "Robert Rizzo",
+    "tagline": "Aspiring Java Developer | IT-Högskolan",
+    "subtitle": "Passionate about software development and building things that make a difference.",
+    "emojis": "☕ 💻 🐟 🚀 🥋",
+    "downloadCv": "Download CV"
+  },
+  "about": {
+    "title": "About Me",
+    "bio": "Hi! My name is Robert Rizzo and I'm currently studying to become a Java Developer at IT-Högskolan. I'm passionate about software development and love solving problems with code. Outside of my studies, I volunteer as a youth leader and board member at a fishing club, where I also built their website.",
+    "educationTitle": "Education",
+    "education": [
+      "Java Developer Program – IT-Högskolan (ongoing)",
+      "TBD – Previous education"
+    ],
+    "coursesTitle": "Courses",
+    "courses": [
+      "Java & Object-Oriented Programming",
+      "Spring Boot & Backend Development",
+      "Databases & SQL",
+      "Frontend Development (HTML, CSS, JavaScript, React)",
+      "REST APIs & Web Services",
+      "Agile Development & Scrum"
+    ],
+    "experienceTitle": "Previous Experience",
+    "experience": [
+      "Youth Leader – Fishing Club (ongoing)",
+      "Board Member – Fishing Club (ongoing)",
+      "TBD – Additional experience"
+    ],
+    "hobbiesTitle": "Interests & Hobbies",
+    "hobbies": [
+      "Fishing",
+      "Martial arts",
+      "Programming & open source",
+      "Outdoor life"
+    ],
+    "lookingForTitle": "What I'm Looking For",
+    "lookingFor": "I'm looking for opportunities as a Java Developer or Software Developer. Open to internships, junior roles, and collaborations – don't hesitate to reach out!"
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "emoji": "🐟",
+        "title": "Fishing Club Website",
+        "description": "Built a complete website for the fishing club where I volunteer, serve on the board, and lead the youth group. The site presents the club's activities, events, and member information.",
+        "technologies": ["TBD"],
+        "type": "Volunteer",
+        "link": ""
+      },
+      {
+        "emoji": "🥋",
+        "title": "Järnvilja",
+        "description": "Fullstack school project – a martial arts-themed web application demonstrating my end-to-end development skills. Includes both frontend and backend with database management.",
+        "technologies": ["TBD"],
+        "type": "School Project",
+        "link": "",
+        "featured": true
+      },
+      {
+        "emoji": "🌤️",
+        "title": "Weather App",
+        "description": "School project consuming a REST API to display weather data and forecasts. Demonstrates understanding of API integration and asynchronous data handling.",
+        "technologies": ["JavaScript", "REST API", "HTML", "CSS"],
+        "type": "School Project",
+        "link": ""
+      },
+      {
+        "emoji": "🐍",
+        "title": "Python Project",
+        "description": "Hobby project built with Python. Details and description coming soon.",
+        "technologies": ["Python", "TBD"],
+        "type": "Hobby",
+        "link": ""
+      },
+      {
+        "emoji": "🤖",
+        "title": "AI Chatbot",
+        "description": "Hobby project – an AI-powered chatbot. Exploring how machine learning and language models can be used to create interactive conversational experiences.",
+        "technologies": ["Python", "TBD"],
+        "type": "Hobby",
+        "link": ""
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Don't hesitate to reach out! I'm always open for new opportunities and collaborations.",
+    "email": "TBD@example.com",
+    "phone": "+46 TBD",
+    "linkedin": "linkedin.com/in/TBD",
+    "github": "github.com/TBD",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "linkedinLabel": "LinkedIn",
+    "githubLabel": "GitHub"
+  },
+  "footer": {
+    "tagline": "Built with React & Tailwind CSS",
+    "rights": "All rights reserved."
+  }
+}
