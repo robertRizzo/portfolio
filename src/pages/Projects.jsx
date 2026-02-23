@@ -21,6 +21,7 @@ function Projects() {
             technologies={project.technologies}
             type={project.type}
             link={project.link || null}
+            linkLabel={project.link ? (project.linkLabel || t('projects.viewProject')) : null}
             featured={project.featured}
           />
         ))}

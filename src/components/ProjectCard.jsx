@@ -6,7 +6,7 @@ const TYPE_COLORS = {
   Hobby: 'bg-purple-400/20 text-purple-200',
 };
 
-function ProjectCard({ emoji, title, description, technologies, type, link, featured }) {
+function ProjectCard({ emoji, title, description, technologies, type, link, linkLabel, featured }) {
   const badgeClass = TYPE_COLORS[type] || 'bg-white/10 text-white/70';
 
   return (
@@ -46,7 +46,7 @@ function ProjectCard({ emoji, title, description, technologies, type, link, feat
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1 mt-5 text-blue-200 hover:text-white text-sm font-medium transition-colors"
           >
-            View Project
+            {linkLabel || 'View Project'}
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="w-4 h-4"
