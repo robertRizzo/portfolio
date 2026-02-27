@@ -47,6 +47,8 @@
   },
   "projects": {
     "title": "Projekt",
+    "viewProject": "Visa projekt",
+    "tryOutProject": "Prova projektet",
     "items": [
       {
         "emoji": "🐟",
@@ -62,7 +64,8 @@
         "description": "Fullstack-skolprojekt – en webbapplikation med kampsportstema som demonstrerar mina fullstack-kunskaper. Inkluderar både frontend och backend med databashantering.",
         "technologies": ["TBD"],
         "type": "Skolprojekt",
-        "link": "",
+        "link": "https://jarnvilja.onrender.com",
+        "linkLabel": "Prova projektet",
         "featured": true
       },
       {

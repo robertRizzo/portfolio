@@ -47,6 +47,8 @@
   },
   "projects": {
     "title": "Projects",
+    "viewProject": "View Project",
+    "tryOutProject": "Try Out The Project",
     "items": [
       {
         "emoji": "🐟",
@@ -62,7 +64,8 @@
         "description": "Fullstack school project – a martial arts-themed web application demonstrating my end-to-end development skills. Includes both frontend and backend with database management.",
         "technologies": ["TBD"],
         "type": "School Project",
-        "link": "",
+        "link": "https://jarnvilja.onrender.com",
+        "linkLabel": "Try Out The Project",
         "featured": true
       },
       {
