@@ -64,7 +64,7 @@
         "description": "Fullstack-skolprojekt – en webbapplikation med kampsportstema som demonstrerar mina fullstack-kunskaper. Inkluderar både frontend och backend med databashantering.",
         "technologies": ["TBD"],
         "type": "Skolprojekt",
-        "link": "https://jarnvilja-production.up.railway.app/",
+        "link": "https://jarnvilja.onrender.com",
         "linkLabel": "Prova projektet",
         "featured": true
       },

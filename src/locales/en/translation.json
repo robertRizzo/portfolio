@@ -64,7 +64,7 @@
         "description": "Fullstack school project – a martial arts-themed web application demonstrating my end-to-end development skills. Includes both frontend and backend with database management.",
         "technologies": ["TBD"],
         "type": "School Project",
-        "link": "https://jarnvilja-production.up.railway.app/",
+        "link": "https://jarnvilja.onrender.com",
         "linkLabel": "Try Out The Project",
         "featured": true
       },
